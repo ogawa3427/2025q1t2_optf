@@ -4,3 +4,8 @@
 /b03_grid_imgs/
 /b04_videos/
 video.mp4
+
+imgs_grayscale/
+c02_grad_imgs/
+output_gradient.mp4
+.DS_Store
